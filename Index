@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+<meta charset="utf-8">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+
+     <title>module2-solution</title>
+     <link rel="stylesheet" href="https://github.com/Ladidi1/Module2assignment/new/main/style.css"/>
+    </head>   
+<body>
+<h1>our Menu</h1>
+<section class="col-lg-4 col-md-6 col-sm-12">
+<div class="column" style="background-color: grey;" style="width: 10%;">
+    <p class="s1">chicken</p>
+    <p class="content">
+        Chicken soup is a soup made from chicken, simmered in water, usually with various other ingredients. The classic chicken soup consists of a clear chicken broth, often with pieces of chicken or vegetables; common additions are pasta, noodles, dumplings, or grains such as rice and barley.</p>
+</div>
+</section>
+<section class="col-lg-4 col-md-6 col-sm-12">
+    <div>
+        <p class="s2">Beef</p>
+        <p class="content">
+            Chicken soup is a soup made from chicken, simmered in water, usually with various other ingredients. The classic chicken soup consists of a clear chicken broth, often with pieces of chicken or vegetables; common additions are pasta, noodles, dumplings, or grains such as rice and barley.</p>
+    </div>
+</section>
+<section class="col-lg-4 col-md-12 col-sm-12">
+    <div> 
+        <p class="s1">Sushi</p>
+        <p class="content">
+            Sushi is a Japanese dish of prepared vinegared rice, usually with some sugar and salt, accompanied by a variety of ingredients, such as seafood, often raw, and vegetables. Styles of sushi and its presentation vary widely, but the one key ingredient is "sushi rice", also referred to as shari, or sumeshi.</p>
+    </div>
+</section>
+</body>
+</html>
